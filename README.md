@@ -4,7 +4,7 @@ This repository holds the source code for my final year project at Aston Univers
 Statistical Analysis for Detecting Depression is a research project that focuses on a dataset collected on a set of people who have depressive symptoms. It includes data collected from those people with depression and a control set of people without depression.
 
 ## Dataset
-The dataset used for this project from a public domain called Simula (<a href="https://datasets.simula.no/depresjon/">https://datasets.simula.no/depresjon/</a>) published by Garcia-Ceja, et al. (2018).
+The dataset used for this project was from a public domain called Simula (<a href="https://datasets.simula.no/depresjon/">https://datasets.simula.no/depresjon/</a>) published by Garcia-Ceja, et al. (2018).
 
 ## Ethics
 This project has received ethical approval since it contains data of human participants, and it is anonymised.
