@@ -28,4 +28,4 @@ Berle, J. O., Hauge, E. R., Oedegaard, K. J., Holsten, F. and Fasmer, O. B. (201
 <br><br>
 Garcia-Ceja, E., Riegler, M., Jakobsen, P., Tøressen, J., Nordgreen, T., Oedegaard, K. J. and Fasmer O. B. (2018) 'Depresjon: a motor activity database of depression episodes in unipolar and bipolar patients', <i>MMSys '18: Proceedings of the 9th ACM Multimedia Systems Conference</i>, Amsterdam, Netherlands, 12-15 June 2018. New York: Association for Computing Machinery, pp. 472-477. Available at: <a href="https://doi.org/10.1145/3204949.3208125">https://doi.org/10.1145/3204949.3208125</a>
 <br><br>
-Simula (no date) <i>Simula Datasets - Depresjon</i>. Available at: <a href="https://datasets.simula.no/depresjon/">https://datasets.simula.no/depresjon/</a>
+Simula (no date) <i>Simula Datasets - Depresjon</i>. Available at: <a href="https://datasets.simula.no/depresjon/">https://datasets.simula.no/depresjon/</a> (Accessed: 6 November 2023)
