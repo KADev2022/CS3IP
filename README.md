@@ -20,8 +20,12 @@ The original study in which the dataset was collected (Berle et al., 2010): <a h
 From this study: “The study protocol was approved by the local ethics committee (REK III, Health-West, Norway)”
 
 ## Tools/Technology
-* Anaconda: <a href="https://www.anaconda.com/download">https://www.anaconda.com/download</a>
-* Python: <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a> (not needed since I will use Jupyter Notebook to develop the experiment)
+* Jupyter Notebook (Integrated Development Environment (IDE) via Anaconda Navigator)
+* Python (Programming Language)
+
+## Files
+* <code>Statistical Analysis Experiment for Depression.ipynb</code> - develops the statistics of the days, madrs1 and madrs2 columns of the <code>scores.csv</code> file using descriptive analysis (central tendency and variability)
+* <code>Machine Learning Experiment - Depression or Non-Depression.ipynb</code> - develops the machine learning experiment that trains the machine learning models using a new dataset based on features extracted from each patient's activity data from the actigraph watch
 
 ## References
 Berle, J. O., Hauge, E. R., Oedegaard, K. J., Holsten, F. and Fasmer, O. B. (2010) 'Actigraphic registration of motor activity reveals a more structured behavioural pattern in schizophrenia than in major depression', <i>BMC Research Notes</i>, 3, article number 149. Available at: <a href="https://doi.org/10.1186/1756-0500-3-149">https://doi.org/10.1186/1756-0500-3-149</a> (Accessed: 6 November 2023).
