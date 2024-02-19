@@ -25,7 +25,7 @@ From this study: “The study protocol was approved by the local ethics committe
 
 ## Files
 * <code>Statistical Analysis Experiment for Depression.ipynb</code> - develops the statistics of the days, madrs1 and madrs2 columns of the <code>scores.csv</code> file using descriptive analysis (central tendency and variability)
-* <code>Machine Learning Experiment - Depression or Non-Depression.ipynb</code> - develops the machine learning experiment that train the machine learning models using a new dataset based on features extracted from each patient's activity data from the actigraph watch
+* <code>Machine Learning Experiment - Depression or Non-Depression Classification.ipynb</code> - develops the machine learning experiment that classify patients as depressed or non-depressed using a new dataset based on features extracted from each patient's activity data from the actigraph watch
 
 ## References
 Berle, J. O., Hauge, E. R., Oedegaard, K. J., Holsten, F. and Fasmer, O. B. (2010) 'Actigraphic registration of motor activity reveals a more structured behavioural pattern in schizophrenia than in major depression', <i>BMC Research Notes</i>, 3, article number 149. Available at: <a href="https://doi.org/10.1186/1756-0500-3-149">https://doi.org/10.1186/1756-0500-3-149</a> (Accessed: 6 November 2023).
