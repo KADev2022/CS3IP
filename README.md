@@ -1,7 +1,10 @@
-# Statistical Analysis for Detecting Depression
+# Machine Learning-Based Human Activity Recognition for the Classification of Depression
 This repository holds the source code for my final year project at Aston University.
 
-Statistical Analysis for Detecting Depression is a research project that focuses on a dataset collected on a set of people who have depressive symptoms. It includes data collected from those people with depression and a control set of people without depression.
+Machine Learning-Based Human Activity Recognition for the Classification of Depression is a research project that focuses on a dataset collected on a set of people who have depressive symptoms. It includes data collected from those people with depression and a control set of people without depression with their activity data over time from an actigraph watch.
+
+## Disclaimer
+The project name was changed to <b>Machine Learning-Based Human Activity Recognition for the Classification of Depression</b> due to the ethical approval for the study of machine learning for classifying depression and non-depression using activity data from humans over time.
 
 ## Dataset
 The dataset used for this project was from a public domain called Simula (<a href="https://datasets.simula.no/depresjon/">https://datasets.simula.no/depresjon/</a>) published by Garcia-Ceja, et al. (2018).
@@ -17,7 +20,7 @@ The paper by Garcia-Ceja, et al. (2018) also states that the intention of the da
 ### Risk
 The original study in which the dataset was collected (Berle et al., 2010): <a href="https://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-3-149">https://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-3-149</a>
 <br><br>
-From this study: “The study protocol was approved by the local ethics committee (REK III, Health-West, Norway)”
+From this study: "The study protocol was approved by the local ethics committee (REK III, Health-West, Norway)"
 
 ## Tools/Technology
 * Jupyter Notebook (Integrated Development Environment (IDE) via Anaconda Navigator)
